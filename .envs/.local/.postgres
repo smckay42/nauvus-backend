@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=nauvus
+POSTGRES_USER=YBDSNVbEuHVsuJNyJENHpZTioTxLHAyw
+POSTGRES_PASSWORD=m80OLxzE3ZjK0S2J8qeQyQjLCoUjJqNPltidD2RxuIdKNJB5qIdohakUTvFDppv3

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Invitation</title>
+  </head>
+
+  {% comment %}
+  <body>
+    <h1>Hi,</h1>
+    <p>You have been invited in the system.</p>
+  </body>
+  {% endcomment %} {% comment %}
+  <body>
+    <h1>Hi, {{first_name}}</h1>
+    <p>
+      You have been invited by {{organization_name}} as a {{access_type}} in the
+      system.
+    </p>
+    <p>{{link}}</p>
+  </body>
+  {% endcomment %}
+
+  <body>
+    <h1>Hello!</h1>
+    <p>
+      You've been invited by {{inviter_first_name}} {{inviter_last_name}} to join
+      {{organisation_name}} on Nauvus as a {{access_type}}. To set up your
+      account, simply click on <a href="{{link}}">{{link}}</a>
+    </p>
+    <p>Access your account now.</p>
+    <p>Looking forward to working together!</p>
+    <p>Best<br />The Nauvus team</p>
+  </body>
+</html>

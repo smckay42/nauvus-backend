@@ -1,0 +1,1 @@
+sh /home/scripts/create_database.sh nauvus

@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "nauvus-development",
+    "private_key_id": "de94d6578d27370737a7731a486a3e2c3210412a",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRaAWVcb6OiaUM\neF6kXeL5xqqi/0LC3rL3PYf9KIr5Wl9ZLpGiYpWY/FrrsLcY6CqO7KI5Id47RvwZ\nRBuDHpKyvGeMcqjvaYRh2UWh9y/C3hd9Xn+lBsTxvZDsNj0bVJgnfeaIvj6evfqL\nOwO2fCBytUlAidHTYRkmHfnRYhgnChCDD0FQsfgBjSFkfwPPIJqYaB/Nyv5VW0ko\nPYGIaqjuEDyh71losZ+NwYpJF29nk02xcLYVctuLZUPBMlZP2CJOJmDVQxd+00pS\nTSECV8nW7derlNhy30yPTnyfoM45Ktjo26NbgeJbnW3pFWTNlbqmNRGEWvqUCiRA\nv3tBW8AxAgMBAAECggEAAgIZ35uGJM7MHuj+m1vtI9EUbNi+1qiVFcroxXRAlPCZ\nbn0EV4bTgXKWGqGIt/vuAI3jZmHdRDtDiqh9DQ5bgMxOv+mPljAwXVHcmZeJxTgl\nCIZB+h6s/9Z+D83bWyo+BU7vSYtthU80Gma3++WH2CHF8JEByqGpQJTUAv6KVcF+\nAyLsLvyNQWVWArdJ9YLvqFQgePhnAdzSZDthhCAoC2bMNNEIOk+T//BSHVmlaiyY\nqn3ENHHMbs4ID7Nfi6ZBmDDrniAE79tOdcAAgD7iuCIp6QpTK+UEb1XuchC8HkVS\nHlY77OuvroTSIDiKKJVfzvOf3q9qP/AMuRre1LBtywKBgQDpgp1fz8yIXN1IaLu7\nZlVZBir3hjaLLHjQlC2CnVWgrT1e2DjumoLk6c17PB0a5jh+s2FUU2Ni02afS/pG\nUor2sZ4y+Vm78h62oQ8G89R2zoF6HY6xVHQWgwwd3LZPLwU3nZkBpsVQKrYOifCu\n/KAQ+6jPqG6tKbh1hUtmC8YGGwKBgQDlkxsx/Gv026NCQRa2Q10B6+/ZBDgzgpB/\nEtTVXnygKNssJnvy6fWT8DHzFGgyxV9aqsp3Dm5tRY12VhXzd8gU0rMGiMM/fsHj\ntSCsLvDoTrvGWzeOSOgftIlVMNGTMxt9/ybTvkNaGeOl0iTCZJly8+SDt/aDCamZ\nFNJnQoNnowKBgD0Wj4c2PKLb8IP16k7/WYqdo3X35aMJMl4WtcU61eDgEXMTi+lY\nALBUPg5kTpTv742t7eN6oUCEX4+C9+mXxIT/OIzLUN9rWv+aKO0/srCWG6dPvjnE\nB06wX+YcDJGwkmPXVeTptSrg0ZoCGjYdHt7yh1o0DSg+BuSvx2bd46NLAoGBAIVO\nSWFaKLnS+9bSAsUtEom2HdzPJW9LpmoTXkDTj9xUPQhDBIBGOFKCDA8RT3wDvd3h\nBJXjbF3JIF6RmEd6y1TEEC6AJZfuG9oEaAdzbnIGneSNPRJC5X7bj09HfLpT1+fu\ny/XyKhvcoqK8BppWXgAw/QU7QkpOxwtb2t0Y80KvAoGAHsCSkRFK6Bum8U/Iplf0\n4Ufb1wrH6N4GK9HKh/rPGEUFRmurQePXkjR3kcHt/GHCWf5bMsEuAlXA5pfSWNMO\n74umcQOuVFo6KfaT7G7M9efNDpJlMkZ6CCtb9ePw5KzglvUqFwk41l1f65FJaD+C\naIIASC/wObiw5VxOsIQrtCE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "nauvus@nauvus-development.iam.gserviceaccount.com",
+    "client_id": "103661772061324627371",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nauvus%40nauvus-development.iam.gserviceaccount.com"
+}
+  
